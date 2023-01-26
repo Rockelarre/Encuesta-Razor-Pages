@@ -1,4 +1,4 @@
-# Razor-Pages-Movies
+# Encuesta Razor Pages
 
 Esta es una sencilla aplicación para realizar una encuesta sobre trabajo remoto para los empleados de una empresa, creada en base al tutorial: 
 ### "Razor Pages, La Guía Inicial Definitiva con .NET 6+" 
