@@ -1,6 +1,6 @@
 # Encuesta Razor Pages
 
-Esta es una sencilla aplicación para realizar una encuesta sobre trabajo remoto para los empleados de una empresa, creada en base al tutorial: 
+Esta es una sencilla aplicación para realizar una encuesta sobre trabajo remoto para los empleados de una empresa y mostrar los registros en una tabla ene base a una lista, creada en base al tutorial: 
 ### "Razor Pages, La Guía Inicial Definitiva con .NET 6+" 
 
 Ubicado en la siguiente url: 
