@@ -1,6 +1,6 @@
 # Encuesta Razor Pages
 
-###Stack: 
+### Stack: 
     - .Net Core 6.0 
     - C# 
     - Razor Pages 
